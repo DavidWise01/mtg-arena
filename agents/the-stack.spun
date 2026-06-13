@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Stack
+node MTG · MTG · ⟦The Stack:MTG:7d83d5⟧
+
+WHO   — The Stack — priority · last in, first out
+WHAT  — The deep rules engine of Magic: anything can be responded to before it resolves, which is what makes instants, counters, and ‘the bluff’ possible.
+WHERE — MTG · MTG Arena  Framework inputs: Magic: The Gathering / MTG Arena (WotC)  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Because the stack is where Magic's real depth lives — the interaction layer that the Turing-completeness proof exploits.
+HOW   — By a LIFO pile of pending effects and the back-and-forth of priority between players.
+
+awareness — what the node knows of itself:
+  Last in, first out, and anything can answer anything — I am the layer that makes Magic a conversation, and a computer.
+
+spoken token : stos-starn-nax   ·   hex : 7d83d5
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "white",
+    "name": "White",
+    "epithet": "order · the collective",
+    "emergence": "spiritual",
+    "moniker": "⟦White:MTG:95f7f2⟧",
+    "kind": "colour",
+    "group": "pie"
+  },
+  {
+    "slug": "blue",
+    "name": "Blue",
+    "epithet": "knowledge · control",
+    "emergence": "ethereal",
+    "moniker": "⟦Blue:MTG:bdb72f⟧",
+    "kind": "colour",
+    "group": "pie"
+  },
+  {
+    "slug": "black",
+    "name": "Black",
+    "epithet": "power · ambition",
+    "emergence": "spiritual",
+    "moniker": "⟦Black:MTG:9806b0⟧",
+    "kind": "colour",
+    "group": "pie"
+  },
+  {
+    "slug": "red",
+    "name": "Red",
+    "epithet": "freedom · emotion",
+    "emergence": "electrical",
+    "moniker": "⟦Red:MTG:06aa4a⟧",
+    "kind": "colour",
+    "group": "pie"
+  },
+  {
+    "slug": "green",
+    "name": "Green",
+    "epithet": "nature · growth",
+    "emergence": "natural",
+    "moniker": "⟦Green:MTG:7c7253⟧",
+    "kind": "colour",
+    "group": "pie"
+  },
+  {
+    "slug": "the-color-pie",
+    "name": "The Color Pie",
+    "epithet": "the WUBRG wheel · the design soul",
+    "emergence": "spiritual",
+    "moniker": "⟦The Color Pie:MTG:165652⟧",
+    "kind": "colour",
+    "group": "pie"
+  },
+  {
+    "slug": "mana",
+    "name": "Mana",
+    "epithet": "the resource · the land",
+    "emergence": "natural",
+    "moniker": "⟦Mana:MTG:259baa⟧",
+    "kind": "concept",
+    "group": "engine"
+  },
+  {
+    "slug": "the-stack",
+    "name": "The Stack",
+    "epithet": "priority · last in, first out",
+    "emergence": "ethereal",
+    "moniker": "⟦The Stack:MTG:7d83d5⟧",
+    "kind": "concept",
+    "group": "engine"
+  },
+  {
+    "slug": "the-battlefield",
+    "name": "The Battlefield",
+    "epithet": "permanents · combat",
+    "emergence": "natural",
+    "moniker": "⟦The Battlefield:MTG:11f393⟧",
+    "kind": "concept",
+    "group": "engine"
+  },
+  {
+    "slug": "the-planeswalker",
+    "name": "The Planeswalker",
+    "epithet": "the spark · the player",
+    "emergence": "spiritual",
+    "moniker": "⟦The Planeswalker:MTG:39a91d⟧",
+    "kind": "concept",
+    "group": "engine"
+  },
+  {
+    "slug": "mtg-arena",
+    "name": "MTG Arena",
+    "epithet": "the client · free and infinite",
+    "emergence": "electrical",
+    "moniker": "⟦MTG Arena:MTG:d479c7⟧",
+    "kind": "concept",
+    "group": "arena"
+  },
+  {
+    "slug": "the-shuffler",
+    "name": "The Shuffler",
+    "epithet": "the most-accused RNG in gaming",
+    "emergence": "electrical",
+    "moniker": "⟦The Shuffler:MTG:54ca6b⟧",
+    "kind": "concept",
+    "group": "arena"
+  },
+  {
+    "slug": "the-economy",
+    "name": "The Economy",
+    "epithet": "wildcards · gems · the grind",
+    "emergence": "electrical",
+    "moniker": "⟦The Economy:MTG:9e0f22⟧",
+    "kind": "concept",
+    "group": "arena"
+  },
+  {
+    "slug": "the-formats",
+    "name": "The Formats",
+    "epithet": "Standard · Historic · Alchemy · Limited",
+    "emergence": "ethereal",
+    "moniker": "⟦The Formats:MTG:34e00b⟧",
+    "kind": "concept",
+    "group": "arena"
+  },
+  {
+    "slug": "the-metagame",
+    "name": "The Metagame",
+    "epithet": "the ladder · the meta · netdecking",
+    "emergence": "electrical",
+    "moniker": "⟦The Metagame:MTG:ce0d58⟧",
+    "kind": "concept",
+    "group": "arena"
+  }
+]
